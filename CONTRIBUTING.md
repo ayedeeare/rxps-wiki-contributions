@@ -19,7 +19,7 @@ Thank you for wanting to contribute to the RXPS Wiki!
 ### Step 3: Submit a Pull Request
 
 1. Commit your changes with a descriptive message
-2. Click **Contribute** → **Open Pull Request**
+2. Click **Contribute** then **Open Pull Request**
 3. Describe what you added/changed
 4. Submit!
 
@@ -92,5 +92,4 @@ Note content here
 ## Questions?
 
 - Join the [RXPS Discord](https://discord.gg/eVvQbnDs8f)
-- Ask in the wiki channel
-- DM Misery (TinyPants69)
+- DM Diablo (TinyPants69)

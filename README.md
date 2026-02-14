@@ -40,4 +40,4 @@ Check the `/templates` folder for example page formats:
 
 ## Questions?
 
-Join the [RXPS Discord](https://discord.gg/eVvQbnDs8f) and ask in the wiki channel!
+Join the [RXPS Discord] and @Diablo if you need anything!
